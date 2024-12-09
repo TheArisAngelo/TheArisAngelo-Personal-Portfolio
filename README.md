@@ -1,2 +1,1 @@
-# TheArisAngelo-Personal-Portfolio
-Personal Portfolio!
+This personal portfolio website showcases the creative work, skills, and professional journey of Myself. Built using HTML, CSS, and JavaScript, it combines a sleek, responsive design with interactive features to deliver an engaging user experience.
